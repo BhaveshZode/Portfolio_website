@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Restaurant Booking Portal",
+    "imageSrc": "projects/project.png",
+    "description": "Online portal with reservation, account management, and email notification features to boost user engagement.",
+    "skills": ["Python", "JavaScript", "HTML", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Learning Companion",
+    "imageSrc": "projects/project.png",
+    "description": "Discord-like application for efficient data storage, Fostered community engagement by managing discussion channels",
+    "skills": ["Python", "JavaScript","sqlite3"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Movie Recommender",
+    "imageSrc": "projects/project.png",
+    "description": "ML-based movie recommender using content-based filtering with TD-IDF and cosine similarity.",
+    "skills": ["Python", "sklearn","numpy","pandas"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

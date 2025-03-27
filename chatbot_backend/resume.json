@@ -1,0 +1,81 @@
+{
+    "name": "Bhavesh Resham Zode",
+    "contact": {
+      "phone": "7666478642",
+      "email": "bhaveshzode123@gmail.com",
+      "address": "Sundari, Tal-Sakoli, Dist-Bhandara, Maharashtra, Pin-441806"
+    },
+    "academic_profile": {
+      "btech": {
+        "degree": "B-Tech in Pharmaceutical Engineering & Technology",
+        "institution": "IIT (BHU), Varanasi",
+        "cgpa": 7.35,
+        "year": "2026",
+        "semesters": {
+          "Sem I": 6.80,
+          "Sem II": 7.26,
+          "Sem IV": 6.61,
+          "Sem V": 7.29,
+          "Sem VI": 8.76
+        }
+      },
+      "cbse_xii": {
+        "institution": "Jawahar Navodaya Vidyalaya, Gondia",
+        "percentage": 94.80,
+        "year": "2021"
+      },
+      "cbse_x": {
+        "institution": "Jawahar Navodaya Vidyalaya, Gondia",
+        "percentage": 93.80,
+        "year": "2019"
+      }
+    },
+    "skills": {
+      "languages": ["C/C++", "Python", "JavaScript", "MySQL", "HTML", "CSS"],
+      "technologies": ["Django", "REST API", "ReactJS", "CppUnit"],
+      "tools": ["Git", "Linux", "Docker", "Github", "Vim"],
+      "soft_skills": ["Teamwork", "Strategy", "Communication", "Event Planning", "Leadership"],
+      "interests": ["Software Development", "Financial Market", "Sustainability", "Consulting", "Web Development", "DSA"]
+    },
+    "projects": [
+      {
+        "name": "Restaurant Table Reservation Portal",
+        "description": "Developed an online portal for table reservation at restaurants using Python, JavaScript, HTML, and CSS. Integrated functionalities for handling reservations, accounts, and email notifications to enhance user engagement."
+      },
+      {
+        "name": "Learning Companion",
+        "description": "Created a Discord-like application using Python and JavaScript with sqlite3 for efficient data storage. Fostered community engagement by creating and managing various discussion channels."
+      },
+      {
+        "name": "Movie Recommendation System",
+        "description": "Designed an ML model for movie recommendations using content-based and collaborative filtering using Python. Used TF-IDF vectorizer and cosine similarity to provide personalized movie suggestions to users."
+      }
+    ],
+    "positions_of_responsibility": [
+      {
+        "role": "Events Associate, E-Cell IIT BHU",
+        "details": [
+          "Orchestrated Bizthon and Google Startup Weekend Varanasi, involving 40+ startups and attracting 250+ attendees.",
+          "Spearheaded 13+ E-Summit'24 gatherings, with participation from over 6500 individuals.",
+          "Led planning and execution of Xpanse, a B-Plan Competition, achieving 500+ participants.",
+          "Organized and executed Bid Bonanza, with innovative bidding for startups, drawing 1200+ attendees."
+        ]
+      },
+      {
+        "role": "Maintenance Secretary, Hostel Committee IIT BHU",
+        "details": [
+          "Elected with 200+ votes; managed and improved hostel facilities, addressing concerns of 1200+ students.",
+          "Successfully developed and executed a proper parking system."
+        ]
+      }
+    ],
+    "honours_and_achievements": [
+      "Regularly engaged in coding challenges on Codeforces and LeetCode with a strong rating.",
+      "Founder, GuideUp: Established a startup providing mentorship to JEE and NEET aspirants, connecting them with top students from IITs and AIIMS.",
+      "Ranked in the top 10% in the National Standard Examination in Physics (NSEP) 2018-19."
+    ],
+    "extra_curricular_activities": [
+      "Member, Football Club: Led team to win the Intra-Freshers Tournament.",
+      "Secured 2nd position in Group Dance at Aagman'22 IIT BHU."
+    ]
+  }
